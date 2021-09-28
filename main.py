@@ -1,2 +1,0 @@
-pdrint("hello")
-print("donde")
